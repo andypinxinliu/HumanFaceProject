@@ -1,16 +1,18 @@
 # 📝 Release Plans
 
-- [] Project Page
-- [] Inference codes and pretrained Weights
-- [] Training scripts
-- [] Plug and play GaussianStyle to any 3D Gaussian Head Models with new Technical Report
-
+- [x] Project Page
+- [ ] Presentation video.
+- [ ] Inference codes
+- [ ] Pretrained models
+- [ ] Training scripts
+- [ ] New Technical Report
+- [ ] Plug and play GaussianStyle to any 3D Gaussian Head Models
 
 # ⚒️ Installation
 
 ## Build Environtment
 
-We Recommend a python version `==3.8` and cuda version `==12.2`. Then build environment as follows:
+We Recommend a python version `==3.9` and cuda version `>=2.0.0`. Then build environment as follows:
 
 ```shell
 # [Optional] Create a virtual env

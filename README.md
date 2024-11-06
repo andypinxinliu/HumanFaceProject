@@ -3,7 +3,7 @@
 <h2>Human Face Project</h2> 
 
 
-<a href='https://github.com/andypinxinliu/HumanFaceProject/GaussianStyle/readme.md'><img src='https://img.shields.io/badge/GaussianStyle-Readme-green'></a>
+<a href='https://github.com/andypinxinliu/HumanFaceProject/blob/main/assets/GaussianStyle/readme.md'><img src='https://img.shields.io/badge/GaussianStyle-Readme-green'></a>
 
 
 
@@ -25,8 +25,7 @@
 <a href="https://yunlong10.github.io/">Yunlong Tang</a>,
 <a>Huaijin Tu</a>,
 <a href="https://www.cs.rochester.edu/u/jluo/">Jiebo Luo</a>,
-<a href="https://www.cs.rochester.edu/~cxu22/">Chenliang Xu</a>,
-</sub>
+<a href="https://www.cs.rochester.edu/~cxu22/">Chenliang Xu</a>
 <sub>
 <sup>(*Equal Contribution)</sup>
 <sub>

@@ -6,6 +6,8 @@
 <a href='https://github.com/andypinxinliu/HumanFaceProject/blob/main/assets/GaussianStyle/readme.md'><img src='https://img.shields.io/badge/GaussianStyle-Readme-green'></a>
 
 
+</div>
+
 
 # News
 

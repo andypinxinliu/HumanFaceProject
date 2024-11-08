@@ -32,7 +32,7 @@
 <sup>(*Equal Contribution)</sup>
 <sub>
 ------------
-<img src ="assets/GaussianStyle/teaser.gif" width="100%">
+<img src ="assets/GaussianStyle/3dv-teaser.jpg" width="100%">
 
 <p align="left">
 Existing methods like Neural Radiation Fields (NeRF) and 3D Gaussian Splatting (3DGS) have made significant strides in facial attribute control such as facial animation and components editing, yet they struggle with fine-grained representation and scalability in dynamic head modeling. To address these limitations, we propose GaussianStyle, a novel framework that integrates the volumetric strengths of 3DGS with the powerful implicit representation of StyleGAN. The GaussianStyle preserves structural information, such as expressions and poses, using Gaussian points, while projecting the implicit volumetric representation into StyleGAN to capture high-frequency details and mitigate the over-smoothing commonly observed in neural texture rendering. Experimental outcomes indicate that our method achieves state-of-the-art performance in reenactment, novel view synthesis, and animation.
